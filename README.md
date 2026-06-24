@@ -1,4 +1,4 @@
-# 🤖 AI-Assisted Employee Retention Analytics
+# 🤖 Employee Retention Analytics
 
 ## 📌 Project Overview
 
